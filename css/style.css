@@ -1,0 +1,8 @@
+/* estilos generales */
+
+.imagen_fondo{
+    background-image: url('https://res.cloudinary.com/dnblt4j16/image/upload/v1615862029/quimicsa/limpieza_twsxhn.jpg');
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+}
